@@ -11,7 +11,7 @@ This repository contains my custom implementation and approach for building N-gr
 The aim of this repository is to showcase my understanding and application of basic NLP techniques without relying on pre-built libraries, reinforcing core concepts in language modeling and tokenization.
 
 ## Acknowledgment
-This work was completed as part of the coursework for **Winter 2023, CSE 447: Natural Language Processing** (taught by Professor **Yejin Choi**) at the **University of Washington**. The owner of this repository is **Jingchuan Zhou**.
+This work was completed as part of the coursework for **Winter 2024, CSE 447: Natural Language Processing** (taught by Professor **Yejin Choi**) at the **University of Washington**. The owner of this repository is **Jingchuan Zhou**.
 
 ## How to Use
 Clone the repository and follow the included scripts and examples to explore the implementations.
